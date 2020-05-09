@@ -6,7 +6,8 @@
   "author": "Rajeesh R",
   "license": "SCB",
   "dependencies": {
-    "whatwg-fetch": "1.0.0"
+    "whatwg-fetch": "1.0.0",
+    "yarn": "^1.15.2"
   },
   "devDependencies": {
     "babel-cli": "6.16.0",
